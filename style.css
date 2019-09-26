@@ -1,0 +1,12 @@
+.contact-info span{
+    margin-right: 15px;
+}
+.btn-book button{
+background: #CA3d26;
+color: white;
+font-size: 12px;
+font-weight: 700;
+letter-spacing: 2px;
+padding: 14px 30px;
+border: none;
+}
